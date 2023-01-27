@@ -9,7 +9,7 @@ output:
 ---
 
 #To see the presentation with graphs click the link below
-[Presentation](https://github.com/InsulatedMango/Portfolio/blob/main/Bellabeat%20Case%20Study%20Presentation.pdf)
+[Presentation](https://github.com/InsulatedMango/Portfolio-Projects/blob/main/Bellabeat%20Case%20Study%20Presentation.pdf)
 
 
 #Loading Packages
