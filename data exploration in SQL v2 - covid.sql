@@ -1,5 +1,7 @@
 -- DATA EXPLORATION WITH SQL: COVID DATA
 
+-- Link to Tableau dashboard: https://public.tableau.com/app/profile/caleb4362/viz/Covid19Dashboard_16753046563460/Dashboard1?publish=yes
+
 --Checking the data quick
 SELECT *
 FROM PortfolioProject..CovidDeaths$
