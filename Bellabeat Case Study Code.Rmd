@@ -1,4 +1,7 @@
 ---
+#Disclaimer: I lost access to RStudio cloud and had to move my project to a local instance of RStudio. During this move I lost a piece of code that created a dataframe used for one of the sleep visualizations. I was unable to replicate it or find out where it went. 
+#I decided to leave in this mistake as a lesson to learn from so that I do not make this mistake again. 
+
 title: "Bellabeat Case Study"
 author: "Caleb"
 date: "2023-01-13"
